@@ -27,7 +27,8 @@ hunter_config(
 
 hunter_config(
     Boost
-    VERSION 1.78.0
+    URL "https://archives.boost.io/release/1.78.0/source/boost_1_78_0.tar.bz2"
+    SHA1 7ccc47e82926be693810a687015ddc490b49296d
     CMAKE_ARGS
     CMAKE_C_FLAGS=${CMAKE_C_FLAGS}
     CMAKE_CXX_FLAGS=${CMAKE_CXX_FLAGS}

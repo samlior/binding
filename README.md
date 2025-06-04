@@ -17,6 +17,11 @@ C++ binding for rei network
 npm i @rei-network/binding
 ```
 
+## Recommended tool version
+
+- `clang` 13.0.1 or `gcc` 8.5.0
+- `cmake` 3.20.5
+
 ## Build
 
 ```
